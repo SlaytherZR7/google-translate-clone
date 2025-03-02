@@ -1,5 +1,5 @@
 import { Form } from 'react-bootstrap'
-import { type FromLanguage, type Language, SectionType } from '../types'
+import { type FromLanguage, type Language, SectionType } from '../types.d'
 import { AUTO_LANGUAGE, SUPPORTED_LANGUAGES } from '../constants'
 
 type Props =
